@@ -1,1 +1,2 @@
 https://censusindia.gov.in/census.website/data/data-visualizations#
+https://gist.githubusercontent.com/mah0001/807519b91d7309fcce7b1e52c8806c5f/raw/cfbb1aa2b573ab6b5139314e325f55f023316d4b/india-district.json
